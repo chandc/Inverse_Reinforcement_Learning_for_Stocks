@@ -1,4 +1,4 @@
-# Inverse_Reinforcement_Learing_for_Stocks
+# Inverse_Reinforcement_Learning_for_Stocks
 In this project, we will
 
 1. Explore and estimate an IRL-based model of market returns that is based on IRL of a market-optimal portfolio
